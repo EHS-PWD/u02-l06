@@ -1,0 +1,20 @@
+{
+  "name": "user-registration-form-lesson6",
+  "version": "1.0.0",
+  "description": "Unit tests for Lesson 6: Forms and Form Elements - User Registration Form",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "html",
+    "forms",
+    "education",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^23.0.0"
+  }
+}
